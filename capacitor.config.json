@@ -1,0 +1,8 @@
+{
+  "appId": "com.codemind.ai",
+  "appName": "CodeMind AI",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
